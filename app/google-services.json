@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996228562591",
+    "firebase_url": "https://fir-project-b6432.firebaseio.com",
+    "project_id": "fir-project-b6432",
+    "storage_bucket": "fir-project-b6432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996228562591:android:79aa4b41d85340ba",
+        "android_client_info": {
+          "package_name": "mak.onelinecoding.qrcodepdfapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996228562591-g38pkfmjr0jqo6uda6c0sm9k6594snuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGGX6ZSJosL4VcjTV4ZWa0GwUCgXY6o58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996228562591-g38pkfmjr0jqo6uda6c0sm9k6594snuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
